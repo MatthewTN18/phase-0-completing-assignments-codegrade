@@ -50,7 +50,7 @@ to set up a directory where you can keep all of your work for this course.
 
 ### Accessing GitHub and Forking
 
-All the lessons in this course have a corresponding repository (repo) in GitHub.
+All the lessons in this course have a ctorresponding repository (repo) in GitHub.
 On this page in Canvas, you should see two icons in the **upper right** corner.
 The first is the GitHub logo, also known as OctoCat.
 
